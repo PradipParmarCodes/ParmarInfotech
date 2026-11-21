@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="76" viewBox="0 0 375 76" role="img" aria-labelledby="title desc">
+<title id="title">PARMAR INFOTECH logo</title><desc id="desc">PI icon and PARMAR INFOTECH wordmark</desc>
+<rect width="76" height="76" rx="18" fill="#10242e"/>
+<path d="M17 55V24h19c10 0 16 5 16 15s-6 15-16 15h-9v1H17zm10-10h9c5 0 7-2 7-6s-2-6-7-6h-9v12z" fill="#f8f4ed"/>
+<path d="M58 24h8v31h-8z" fill="#d9a076"/><circle cx="62" cy="17" r="4" fill="#d9a076"/>
+<text x="95" y="37" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="800" letter-spacing="3.5" fill="#142630">PARMAR</text>
+<text x="97" y="58" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="8.7" fill="#142630">INFOTECH</text>
+</svg>
